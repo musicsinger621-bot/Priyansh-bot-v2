@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Rizzu",
-    "PREFIX": "/",
+    "PREFIX": "+",
     "ADMINBOT": [
         "61583687236282"
     ],
